@@ -2,19 +2,15 @@ import React, { Fragment, useState, useRef, useEffect } from "react";
 //import { uuid } from 'uuidv4';
 
 import './App.css'
+import { PcClass } from "./components/PcClass";
 
 export function App() {
 
 
     return (
         <Fragment>
-            <div className="slots-container">
-                <input type="checkbox" />
-                <input type="checkbox" />
-                <input type="checkbox" />
-                <input type="checkbox" />
-                <p>1ST</p>
-            </div>
+            <h1>Class</h1>
+            <PcClass/>
         </Fragment>
     )
 }

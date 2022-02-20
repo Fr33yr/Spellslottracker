@@ -1,6 +1,16 @@
-.slots-container {
+.class {
     display: flex;
     flex-direction: column;
-    justify-content: center;
+    justify-content: space-around;
+    width: 150px;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
     text-align: center;
+}
+
+button {
+    width: 50px;
 }
