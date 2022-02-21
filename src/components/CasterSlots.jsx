@@ -1,27 +1,27 @@
-import React, { Fragment, Component } from "react";
+import React, { Fragment, useState } from "react";
 
 
-class CasterSlots extends Component {
-    
-    
-   render() {
-       return (
+export default function CasterSlots() {
+
+    const [isChecked, setIsChecked] = useState(false);
+
+    const handleOnChange = () => {
+        setIsChecked(!isChecked);
+    }
+
+
+    return (
         <Fragment>
             <button>Back</button>
             <div className="slots-container">
+
                 <form action="">
-                    <input type="checkbox" />
-                    <input type="checkbox" />
-                    <input type="checkbox" />
-                    <input type="checkbox" />
+                    <input type="checkbox" checked={isChecked} onChange={handleOnChange}/>
                     <p>1ST</p>
                 </form> 
                 
             </div>
-            <button>Rest</button>
+            <button onClick={handleOnChange}>Rest</button>
         </Fragment>
-       )
-   }
+    )
 }
-
-export default CasterSlots;
