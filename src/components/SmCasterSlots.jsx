@@ -1,7 +1,7 @@
 import React, { Fragment, useState } from "react";
 
 
-export default function CasterSlots() {
+export default function SmCasterSlots() {
 
     const reset = () => {
         document.getElementById("slots-form").reset();
@@ -53,24 +53,7 @@ export default function CasterSlots() {
                     <div className="slots"> 
                     <input type="checkbox"/>
                     <input type="checkbox"/>
-                    <input type="checkbox"/>
                     <p>5th</p>
-                    </div>
-
-                    <div className="slots"> 
-                    <input type="checkbox"/>
-                    <p>8th</p>
-                    <input type="checkbox"/>
-                    <input type="checkbox"/>
-                    <p>6th</p>
-                    </div>
-
-                    <div className="slots"> 
-                    <input type="checkbox"/>
-                    <p>9th</p>
-                    <input type="checkbox"/>
-                    <input type="checkbox"/>
-                    <p>7th</p>
                     </div>
 
                 </form> 
