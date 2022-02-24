@@ -17,7 +17,7 @@ export function PcClass() {
                 <Link className="class-btn" to="/Cleric">Cleric</Link>
                 <Link className="class-btn" to="/Druid">Druid</Link>
                 <Link className="class-btn" to="/Sorcerer">Sorcerer</Link>
-                <Link className="class-btn" to="/Sorcerer">Wizard</Link>
+                <Link className="class-btn" to="/Wizard">Wizard</Link>
                 <Link className="class-btn" to="/Artificer">Artificer</Link>
                 <Link className="class-btn" to="/Paladin">Paladin</Link>
                 <Link className="class-btn" to="/Ranger">Ranger</Link>

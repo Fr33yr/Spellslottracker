@@ -3,9 +3,6 @@ import React, { Fragment } from "react";
 
 export default function SmCasterSlots() {
 
-    const reset = () => {
-        document.getElementById("slots-form").reset();
-    }
 
     return (
         <Fragment>
@@ -58,7 +55,6 @@ export default function SmCasterSlots() {
                 </form> 
                 
             </div>
-            <button className="rest-btn" type="reset" onClick={reset}>Rest</button>
         </Fragment>
     )
 }

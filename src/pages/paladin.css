@@ -1,0 +1,15 @@
+.paladin-class{
+    background: #d8fa19bd;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.paladin-class h1{
+    text-align: center;
+}
+
+.paladin-class form{
+    background: rgba(251, 255, 2, 0.781);
+}

@@ -1,15 +1,15 @@
-.artificer-class{
-    background: #14296e9a;
+.wizard-class{
+    background: #2f00ffb7;
     height: 100vh;
     display: flex;
     flex-direction: column;
     align-items: center;
 }
 
-.artificer-class h1{
+.wizard-class h1{
     text-align: center;
 }
 
-.artificer-class form{
-    background: #14296e9a;
+.wizard-class form{
+    background: #2f00ffb7;
 }

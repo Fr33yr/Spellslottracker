@@ -1,4 +1,15 @@
 .bard-class{
-    background: rgb(245, 26, 245);
+    background: rgb(252, 46, 252);
     height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.bard-class h1{
+    text-align: center;
+}
+
+.bard-class form{
+    background: #8F00FF;
 }

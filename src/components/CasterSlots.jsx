@@ -3,15 +3,12 @@ import React, { Fragment } from "react";
 
 export default function CasterSlots() {
 
-    const reset = () => {
-        document.getElementById("slots-form").reset();
-    }
-
     return (
+
         <Fragment>
             
             <div className="slots-container">
-
+                
                 <form id="slots-form">
                     <div className="slots">
                     <input type="checkbox"/>
@@ -75,7 +72,6 @@ export default function CasterSlots() {
                 </form> 
                 
             </div>
-            <button className="rest-btn" type="reset" onClick={reset}>Rest</button>
         </Fragment>
     )
 }

@@ -40,29 +40,43 @@
 
 /*========== Slots styles ==============*/
 
-.slots-container {
-    background: grey;
-}
-
 form {
-    height: fit-content;
-    width: 100vw;
+    width: 345px;
+    height: 310px;
+    margin: 50px 0 0 0;
+    padding: 0 10px 0 10px;
     display: flex;
     flex-direction: row;
     justify-content: space-around;
+    align-items: center;
     text-align: center;
 }
 
 .slots {
     width: 14px;
+    height: 160px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.slots-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.rest-btn {
+    margin-top: 50px;
+    width: 345px;
+    height: 64px;
+    color: #181818;
+    font-size: 32px;
+}
+
+.back-btn {
+    margin-right: 350px;
+    width: fit-content;
     height: fit-content;
-}
-
-p{
-    padding: 0;
-    margin: 0;
-}
-
-button {
-    width: 50px;
+    color: #181818;
 }
