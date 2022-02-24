@@ -1,4 +1,6 @@
 import React, { Fragment } from "react";
+import { Link } from "react-router-dom";
+
 
 export function PcClass() {
 
@@ -11,7 +13,7 @@ export function PcClass() {
 
                 <p>Pick a class</p>
 
-                <button className="class-btn">Bard</button>
+                <Link className="class-btn" to="/Bard">Bard</Link>
                 <button className="class-btn">Cleric</button>
                 <button className="class-btn">Druid</button>
                 <button className="class-btn">Sorcerer</button>
@@ -20,6 +22,8 @@ export function PcClass() {
                 <button className="class-btn">Paladin</button>
                 <button className="class-btn">Ranger</button>
             </div>
+
+            
             
         </Fragment>
     )

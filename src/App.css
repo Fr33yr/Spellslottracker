@@ -33,6 +33,9 @@
     border-radius: 10px;
     border: 2px solid grey;
     font-size: 32px;
+    text-align: center;
+    text-decoration: none;
+    padding-top: 8px;
 }
 
 /*========== Slots styles ==============*/
