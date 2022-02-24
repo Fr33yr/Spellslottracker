@@ -14,13 +14,13 @@ export function PcClass() {
                 <p>Pick a class</p>
 
                 <Link className="class-btn" to="/Bard">Bard</Link>
-                <button className="class-btn">Cleric</button>
-                <button className="class-btn">Druid</button>
-                <button className="class-btn">Sorcerer</button>
-                <button className="class-btn">Wizard</button>
-                <button className="class-btn">Artificer</button>
-                <button className="class-btn">Paladin</button>
-                <button className="class-btn">Ranger</button>
+                <Link className="class-btn" to="/Cleric">Cleric</Link>
+                <Link className="class-btn" to="/Druid">Druid</Link>
+                <Link className="class-btn" to="/Sorcerer">Sorcerer</Link>
+                <Link className="class-btn" to="/Sorcerer">Wizard</Link>
+                <Link className="class-btn" to="/Artificer">Artificer</Link>
+                <Link className="class-btn" to="/Paladin">Paladin</Link>
+                <Link className="class-btn" to="/Ranger">Ranger</Link>
             </div>
 
             

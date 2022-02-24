@@ -1,4 +1,4 @@
-import React, { Fragment, useState } from "react";
+import React, { Fragment } from "react";
 
 
 export default function SmCasterSlots() {
@@ -9,7 +9,6 @@ export default function SmCasterSlots() {
 
     return (
         <Fragment>
-            <button className="back-btn">Back</button>
             
             <div className="slots-container">
 
