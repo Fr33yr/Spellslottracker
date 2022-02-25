@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Spellslottracker/static/css/main.c7711c21.css",
-    "main.js": "/Spellslottracker/static/js/main.3f6ec8dc.js",
+    "main.js": "/Spellslottracker/static/js/main.3c0187f6.js",
     "index.html": "/Spellslottracker/index.html",
     "main.c7711c21.css.map": "/Spellslottracker/static/css/main.c7711c21.css.map",
-    "main.3f6ec8dc.js.map": "/Spellslottracker/static/js/main.3f6ec8dc.js.map"
+    "main.3c0187f6.js.map": "/Spellslottracker/static/js/main.3c0187f6.js.map"
   },
   "entrypoints": [
     "static/css/main.c7711c21.css",
-    "static/js/main.3f6ec8dc.js"
+    "static/js/main.3c0187f6.js"
   ]
 }
