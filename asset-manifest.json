@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/spell-slots/static/css/main.c7711c21.css",
+    "main.js": "/spell-slots/static/js/main.3f6ec8dc.js",
+    "index.html": "/spell-slots/index.html",
+    "main.c7711c21.css.map": "/spell-slots/static/css/main.c7711c21.css.map",
+    "main.3f6ec8dc.js.map": "/spell-slots/static/js/main.3f6ec8dc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c7711c21.css",
+    "static/js/main.3f6ec8dc.js"
+  ]
+}
