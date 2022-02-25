@@ -7,7 +7,7 @@ import './ranger.css'
 export default function Ranger() {
 
     const mystyle = {
-        background: 'rgb(21, 92, 7)',
+        background: 'rgba(0, 131, 0, 0.507)',
         border: 'none',
         borderRadius: '5px 5px'
     }

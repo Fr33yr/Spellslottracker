@@ -1,5 +1,5 @@
 .sorcerer-class{
-    background: #ff9100af;
+    background: #ff91009d;
     height: 100vh;
     display: flex;
     flex-direction: column;
@@ -11,5 +11,5 @@
 }
 
 .sorcerer-class form{
-    background: #ff9100;
+    background: #ff91009c;
 }

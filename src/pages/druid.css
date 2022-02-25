@@ -1,5 +1,5 @@
 .druid-class{
-    background: #0ff80fa2
+    background: #2af80f79
     ;
     height: 100vh;
     display: flex;
@@ -12,5 +12,5 @@
 }
 
 .druid-class form{
-    background: rgba(0, 131, 0, 0.671);
+    background: rgba(0, 131, 0, 0.507);
 }

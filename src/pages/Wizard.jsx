@@ -8,7 +8,7 @@ import './wizard.css'
 export default function Wizard() {
 
     const mystyle = {
-        background: '#2f00ffb7',
+        background: '#2f00ff93',
         border: 'none',
         borderRadius: '5px 5px'
     }

@@ -1,5 +1,5 @@
 .wizard-class{
-    background: #2f00ffb7;
+    background: #2f00ff93;
     height: 100vh;
     display: flex;
     flex-direction: column;
@@ -11,5 +11,5 @@
 }
 
 .wizard-class form{
-    background: #2f00ffb7;
+    background: #2f00ff93;
 }

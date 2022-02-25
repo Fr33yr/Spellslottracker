@@ -8,7 +8,7 @@ import './druid.css'
 export default function Druid() {
 
     const mystyle = {
-        background: 'rgba(0, 131, 0, 0.671)',
+        background: 'rgba(0, 131, 0, 0.507)',
         border: 'none',
         borderRadius: '5px 5px'
     }

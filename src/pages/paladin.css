@@ -1,5 +1,5 @@
 .paladin-class{
-    background: #d8fa19bd;
+    background: #ffe042d0;
     height: 100vh;
     display: flex;
     flex-direction: column;
@@ -11,5 +11,5 @@
 }
 
 .paladin-class form{
-    background: rgba(251, 255, 2, 0.781);
+    background: #ffec42;
 }

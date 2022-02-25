@@ -8,7 +8,7 @@ import './Sorcerer.css'
 export default function Sorcerer() {
 
     const mystyle = {
-        background: '#ff9100',
+        background: '#ff91009c',
         border: 'none',
         borderRadius: '5px 5px'
     }

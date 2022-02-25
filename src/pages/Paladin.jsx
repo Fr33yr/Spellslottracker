@@ -7,7 +7,7 @@ import './paladin.css'
 export default function Paladin() {
 
     const mystyle = {
-        background: 'rgba(216, 219, 2, 0.781)',
+        background: '#ffec42',
         border: 'none',
         borderRadius: '5px 5px'
     }
